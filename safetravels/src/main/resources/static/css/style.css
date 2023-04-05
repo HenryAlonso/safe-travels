@@ -1,0 +1,32 @@
+p{
+	padding: 15px;
+}
+.links{
+	color: white;
+	text-decoration: none;
+}
+
+.warning{
+	color: red;
+}
+
+.form-center{
+	margin-top:50px;
+	display:flex;
+	justify-content: center;
+}
+.top-edit{
+	margin-top: 25px;
+	display:flex;
+	justify-content: space-around;
+	align-items:center;
+}
+.edit-form{
+	width: 40%;
+	margin: 0 auto;
+}
+.show{
+	font-size: 1.8em;
+	width:40%;
+	margin: 25px auto;
+}
